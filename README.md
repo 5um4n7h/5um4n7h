@@ -27,6 +27,4 @@
 <a href="https://github.com/5um4n7h">
   <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5um4n7h&theme=light&hide=css" />
 </a>
-
-  <another testing>
-  <another testing 3>
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=5um4n7h)](https://github.com/anuraghazra/github-readme-stats)
