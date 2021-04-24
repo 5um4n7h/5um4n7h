@@ -10,15 +10,12 @@
 
 <a href="https://www.linkedin.com/in/sumanth-h-0849a1118/">
   <img alt="Linkdein" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a> 
 <a href="https://www.instagram.com/5um4n7h/">
   <img alt="Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/5um4n7h/">
   <img  alt=" Facebook" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://github.com/5um4n7h">
-  <img  alt="Github" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br/>
