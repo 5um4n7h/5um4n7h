@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Kotlin**
 
-- 📫 How to reach me **sumanthhegde13@gmail.com**
+- 📫 Reach me - **sumanthhegde13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
