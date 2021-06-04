@@ -25,7 +25,7 @@
  <img  src="https://github-readme-stats.vercel.app/api?username=5um4n7h&show_icons=true&theme=light&line_height=27&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/5um4n7h">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5um4n7h&theme=light" />
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5um4n7h&theme=light&langs_count=8" />
 </a>
 <br>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=5um4n7h&theme=light" />
