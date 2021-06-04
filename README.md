@@ -22,11 +22,12 @@
 
 <br/>
 <a href="https://github.com/5um4n7h">
- <img  src="https://github-readme-stats.vercel.app/api?username=5um4n7h&show_icons=true&theme=light&line_height=27&include_all_commits=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/5um4n7h">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5um4n7h&theme=light&langs_count=5" />
+ <img width=50% src="https://github-readme-stats.vercel.app/api?username=5um4n7h&show_icons=true&theme=light&line_height=27&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 <br>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=5um4n7h&theme=light" />
+<a href="https://github.com/5um4n7h">
+  <img width=50% alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5um4n7h&theme=light&langs_count=5&layout=compact" />
+</a>
+<br>
+<img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=5um4n7h&theme=light" />
 
