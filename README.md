@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/5um4n7h" target="blank"><img src="https://img.shields.io/twitter/follow/5um4n7h?logo=twitter&style=for-the-badge" alt="5um4n7h" /></a> </p>
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently working as Java Backend Developer
 
-- 💬 Ask me about **Java, Kotlin**
+- 💬 Ask me about **Java, Spring Boot, Microservices **
 
 - 📫 Reach me - **sumanthhegde13@gmail.com**
 
